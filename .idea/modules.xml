@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../helloshaima/.idea/helloshaima.iml" filepath="$PROJECT_DIR$/../../helloshaima/.idea/helloshaima.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/helloworld/.idea/helloworld.iml" filepath="$USER_HOME$/PycharmProjects/helloworld/.idea/helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tp_python.iml" filepath="$PROJECT_DIR$/.idea/tp_python.iml" />
+    </modules>
+  </component>
+</project>
